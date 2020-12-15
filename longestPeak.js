@@ -4,8 +4,8 @@ https://www.algoexpert.io/questions/Longest%20Peak
 
 //0(n) time, 0(1) space
 function longestPeak(array){
-    //peak is literally imaginging a tip of a mountain, if the number to the left is smaller and the number to the right is smaller than
-    //it is the peak
+    //peak is literally imaginging a tip of a mountain, if the number to the left is smaller and the number 
+    //to the right is smaller than it is the peak
 
     let peakLength=0;
     //finding peak
